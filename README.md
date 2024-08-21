@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Oguzhan YİGİT
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Softwares
-- 💞️ I’m looking to collaborate on Codes
+- 👀 I’m interested in Java ,Jsp HTML and CSS, Python ,SQL 
+- 📖 I’m currently learning Softwares
 - 📫 How to reach me oguzygt.28@gmail.com
 
 <!---
